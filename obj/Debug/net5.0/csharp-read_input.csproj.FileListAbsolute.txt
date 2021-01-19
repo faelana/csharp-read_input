@@ -1,0 +1,16 @@
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\csharp-read_input.exe
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\csharp-read_input.deps.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\csharp-read_input.runtimeconfig.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\csharp-read_input.runtimeconfig.dev.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\csharp-read_input.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\ref\csharp-read_input.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\bin\Debug\net5.0\csharp-read_input.pdb
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.csprojAssemblyReference.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.AssemblyInfoInputs.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.AssemblyInfo.cs
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.csproj.CoreCompileInputs.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\ref\csharp-read_input.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.pdb
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-read_input\obj\Debug\net5.0\csharp-read_input.genruntimeconfig.cache
